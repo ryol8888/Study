@@ -4,7 +4,7 @@
 ## Contents  
  - Algorithm
  - Computer Science
- - Paper
+ - Papers
  - MLOps
  - etc
 
