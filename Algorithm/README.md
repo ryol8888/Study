@@ -1,8 +1,7 @@
 ## Algorithm
 공부를 위한 Repo입니다.
 
-## Source
-- [LeetCode](https://leetcode.com/ryol8888/)
+## [LeetCode](https://leetcode.com/ryol8888/)
 
 1. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 2. [Binary Search](https://leetcode.com/problems/binary-search/submissions/881030203/)
@@ -20,3 +19,8 @@
 14. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/?envType=study-plan&id=level-1)
 15. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/?envType=study-plan&id=level-1)
 16. [Decode String](https://leetcode.com/problems/decode-string/?envType=study-plan&id=level-1)
+
+## [Backjun](https://www.acmicpc.net/user/ryol8888)
+
+1. [다리놓기](https://www.acmicpc.net/problem/1010)
+2. [수열 정렬](https://www.acmicpc.net/problem/1015)
