@@ -29,4 +29,6 @@
 2. [수열 정렬](https://www.acmicpc.net/problem/1015)
 3. [1로 만들기](https://www.acmicpc.net/problem/1463)
 4. [2xn 타일링](https://www.acmicpc.net/problem/11726)
-5. [수열 정렬](https://www.acmicpc.net/problem/1015)
+5. [평범한 배낭](https://www.acmicpc.net/problem/12865)
+6. [그룹 단어 체크](https://www.acmicpc.net/problem/1316)
+7. [괄호](https://www.acmicpc.net/problem/9012)

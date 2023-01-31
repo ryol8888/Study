@@ -3,6 +3,7 @@
 ## Contents
 - Dynamic Programming
   - 재귀의 비효율적인 계산을 효율적으로 하기위해 기억해놓고 꺼내어쓰는 방식(Top-donw, Bottom-up).
+  - 배낭의 경우 2d로 점화식 계산.
 - Data Structures
 - String
 - Greedy
