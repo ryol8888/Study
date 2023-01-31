@@ -19,8 +19,11 @@
 14. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/?envType=study-plan&id=level-1)
 15. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/?envType=study-plan&id=level-1)
 16. [Decode String](https://leetcode.com/problems/decode-string/?envType=study-plan&id=level-1)
+17. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/?envType=study-plan&id=level-1)
+18. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/?envType=study-plan&id=level-1)
+
 
 ## [Backjun](https://www.acmicpc.net/user/ryol8888)
 
 1. [다리놓기](https://www.acmicpc.net/problem/1010)
-2. [수열 정렬](https://www.acmicpc.net/problem/1015)
+2. [수열 정렬](https://www.acmicpc.net/problem/1015)=
