@@ -24,3 +24,5 @@
 
 1. [다리놓기](https://www.acmicpc.net/problem/1010)
 2. [수열 정렬](https://www.acmicpc.net/problem/1015)
+3. [1로 만들기](https://www.acmicpc.net/problem/1463)
+4. [2xn 타일링](https://www.acmicpc.net/problem/11726)

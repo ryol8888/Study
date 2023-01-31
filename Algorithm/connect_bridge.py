@@ -2,13 +2,6 @@ import sys
 
 input = sys.stdin.readline
 
-# recursive
-def factorial(n):
-    if n <= 2:
-        return n
-    else:
-        return n * factorial(n-1)
-
 def mySolution():
     for _ in range(int(input())):
         inputs = list(map(int, input().split(" ")))
@@ -19,7 +12,7 @@ def mySolution():
             answer = factorial(b) // (factorial(a) * factorial(b-a))
         print(answer)
         
-def bestSolution():
+def dp():
     for _ in range(int(input())):
         N, M = map(int, input().split(" "))
         a = b = 1
@@ -28,5 +21,11 @@ def bestSolution():
         for i in range(N, 1, -1):
             b *= i
         print(int(a/b))
+        
+def built_in_func():
+    import math
+    for _ in range(int(input())):
+        N, M = map(int, input().split(" "))
+        print(int(math.comb(M, N)))
     
-solve()
+built_in_func()
