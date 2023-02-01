@@ -32,3 +32,6 @@
 5. [평범한 배낭](https://www.acmicpc.net/problem/12865)
 6. [그룹 단어 체크](https://www.acmicpc.net/problem/1316)
 7. [괄호](https://www.acmicpc.net/problem/9012)
+8. [설탕 배달](https://www.acmicpc.net/problem/2839)
+9. [회의실 배정](https://www.acmicpc.net/problem/1931)
+10. [카드 정렬](https://www.acmicpc.net/problem/1715)
