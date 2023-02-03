@@ -7,9 +7,11 @@
 - Data Structures
 - String
 - Greedy
+  - 정렬 후 상황에 맞게
 - Bruteforcing
 - Graph Traversal
 - Sorting
+  - python 내장함수 sorted는 병합 정렬 : 최악의 경우에도 NlogN을 보장해주기 위해.
 - Number Theory
 - Geometry
 - Tree
@@ -17,9 +19,9 @@
 - Binary Search
 - Ad-hoc
 - Arithmetic
-- Breadth-first Search(너비 우선 탐색)
+- [Breadth-first Search(너비 우선 탐색)](https://duckracoon.tistory.com/entry/%EB%B0%B1%EC%A4%80-1260-DFS%EC%99%80-BFS-%ED%95%B4%EC%84%A4-python) 
 - Simulation
-- Depth-first Search
+- [Depth-first Search](https://duckracoon.tistory.com/entry/%EB%B0%B1%EC%A4%80-1260-DFS%EC%99%80-BFS-%ED%95%B4%EC%84%A4-python)
 - Contructive
 - Combinatiorics
 - Prefix Sum
