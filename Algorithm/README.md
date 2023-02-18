@@ -38,3 +38,6 @@
 11. [신입 사원](https://www.acmicpc.net/problem/1946)
 12. [단어 수학](https://www.acmicpc.net/problem/1339)
 13. [프린터 큐](https://www.acmicpc.net/problem/1966)
+
+
+## 다시 정리 필요
